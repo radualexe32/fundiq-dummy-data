@@ -1,0 +1,1 @@
+Setup with [uv](https://github.com/astral-sh/uv) and activate virtual environment followed by pip installing the requirements.txt file. To generate the dummy data and push to the database run the `main.py` file.
